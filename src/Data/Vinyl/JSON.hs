@@ -6,7 +6,9 @@
    , KindSignatures
    , FlexibleContexts
    #-}
-
+{-| This adds and instance of FromJSON to SimpleRecords
+ -
+ -}
 module Data.Vinyl.JSON where
 
 import Control.Applicative
