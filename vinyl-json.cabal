@@ -2,7 +2,7 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                vinyl-json
-version:             0.1.0.0
+version:             0.3.0.0
 synopsis:            Provide json instances automagically to vinyl types
 -- description:         
 license:             MIT
@@ -24,7 +24,7 @@ library
                        aeson,
                        text,
                        template-haskell == 2.9.*,
-                       vinyl,
+                       vinyl == 0.3,
                        bytestring
   hs-source-dirs:      src
   default-language:    Haskell2010
