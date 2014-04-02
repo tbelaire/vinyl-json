@@ -9,7 +9,7 @@ license:             MIT
 license-file:        LICENSE
 author:              Theo Belaire
 maintainer:          theo.belaire@gmail.com
--- copyright:           
+copyright:           2014 Theo Belaire
 category:            Web
 build-type:          Simple
 -- extra-source-files:  
